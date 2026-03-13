@@ -1,8 +1,7 @@
 {
     "version": "1.0.0",
-    "is_update": true,
     "update_url": "https://github.com/yourusername/yourrepository/releases/latest",
-    "update_changelog": [
+    "update_tip": [
         "修复了批量改写时的一些问题",
         "添加了对自定义参数的支持"
     ]
